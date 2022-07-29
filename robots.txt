@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kadalbututqq.github.io/sitemap.xml
